@@ -1,23 +1,21 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="楽楽♪♪「逆行列を求めよう！」"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
 
-「走るか寝るかするメロス」[l][r]
+「今日は次の3×3の行列の逆行列を求めるよ♪。」[l][r]
 
-メロスは激怒した。[l][r]
+[cm]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+[bg storage=gyoretu2.png time=500]
 
-(中略)[l][r]
+「好きな求め方を選んでね♪」。[l][r]
 
-ああ、何もかも、ばかばかしい。私は、醜い裏切り者だ。どうとも、勝手にするがよい。やんぬる哉。[l][r]
-メロスは...[l][r]
 
-[link target=*tag_sleep] →寝る [endlink][r]
-[link target=*tag_run] →走る [endlink][r]
+[link target=*tag_hakidashi] →掃き出し法 [endlink][r]
+[link target=*tag_yoinshi] →走る [endlink][r]
 [s]
 
 *tag_sleep
